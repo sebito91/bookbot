@@ -1,2 +1,2 @@
 # bookbot
-BookBot project from Boot.dev
+BookBot project from [boot.dev](https://www.boot.dev)
